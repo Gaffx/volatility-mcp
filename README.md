@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/gaffx-volatility-mcp-badge.png)](https://mseep.ai/app/gaffx-volatility-mcp)
+
 ![](https://img.shields.io/badge/License-Apache%202.0-blue?style=plastic&logo=adobefonts)
 <p align="center">
 <img src="assets/logo.png" height="300">
