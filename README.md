@@ -1,4 +1,6 @@
 ![](https://img.shields.io/badge/License-Apache%202.0-blue?style=plastic&logo=adobefonts)
+
+[![Trust Score](https://archestra.ai/mcp-catalog/api/badge/quality/Gaffx/volatility-mcp)](https://archestra.ai/mcp-catalog/gaffx__volatility-mcp)
 <p align="center">
 <img src="assets/logo.png" height="300">
 </p>
