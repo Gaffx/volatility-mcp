@@ -6,6 +6,10 @@
 Your AI Assistant in Memory Forensics
 </h1>
 
+<a href="https://glama.ai/mcp/servers/@Gaffx/volatility-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@Gaffx/volatility-mcp/badge" alt="Volatility MCP server" />
+</a>
+
 ## Overview
 Volatility MCP seamlessly integrates Volatility 3's powerful memory analysis with FastAPI and the Model Context Protocol (MCP). Experience memory forensics without barriers as plugins like `pslist` and `netscan` become accessible through clean REST APIs, connecting memory artifacts directly to AI assistants and web applications
 
@@ -108,5 +112,3 @@ Contributions are welcome! Please follow these steps to contribute:
 5. Open a pull request.
 
 [![MseeP.ai Security Assessment Badge](https://mseep.net/pr/gaffx-volatility-mcp-badge.png)](https://mseep.ai/app/gaffx-volatility-mcp)
-
-
