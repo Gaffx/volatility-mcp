@@ -9,6 +9,10 @@ Your AI Assistant in Memory Forensics
 ## Overview
 Volatility MCP seamlessly integrates Volatility 3's powerful memory analysis with FastAPI and the Model Context Protocol (MCP). Experience memory forensics without barriers as plugins like `pslist` and `netscan` become accessible through clean REST APIs, connecting memory artifacts directly to AI assistants and web applications
 
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/gaffx-volatility-mcp).
+
 ## Features
 * **Volatility 3 Integration:** Leverages the Volatility 3 framework for memory image analysis.
 * **FastAPI Backend:** Provides RESTful APIs to interact with Volatility plugins.
